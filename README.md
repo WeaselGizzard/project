@@ -2,6 +2,8 @@
 
 This repository contains the submission for the first project in the Udacity **Front-End Web Developer** nanodegree course.
 
+HTML file is **demo.html** and the CSS file is **demo.css**.
+
 The major goal was to produce something that looked like the design mockup, but with different images (though preserving aspect ratio and layout), and that would be adaptive to various device types, for which purpose a _flexbox_ layout was employed.
 
 The HTML and CSS code have been validated against the W3C validation services.
