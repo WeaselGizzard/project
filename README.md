@@ -4,7 +4,7 @@ This repository contains the submission for the first project in the Udacity **F
 
 HTML file is **demo.html** and the CSS file is **demo.css**.  The **images** directory contains the images.  
 
-Preview at http://htmlpreview.github.io/?https://github.com/WeaselGizzard/project/blob/master/demo.html
+Preview at http://htmlpreview.github.io/?https://github.com/WeaselGizzard/project/blob/master/demo.html  or view at http://anesi.com/project/demo.html
 
 The major goal was to produce something that looked like the design mockup, but with different images (though preserving aspect ratio and layout), and that would be adaptive to various device types, for which purpose a _flexbox_ layout was employed.
 
