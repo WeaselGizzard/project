@@ -16,4 +16,4 @@ My reasons for taking this course:
 
 - Get a good, coherent view of modern web development.
 - Understand the developer tools now in common use.
-- Upgrade my personal web site, which dates to 1995, to modern standards.
+- Upgrade my personal web site, http://anesi.com, which dates to 1995, to modern standards.
