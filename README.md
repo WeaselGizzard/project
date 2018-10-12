@@ -12,3 +12,8 @@ The HTML and CSS code have been validated against the W3C validation services.
 
 Appearance and function have been tested on IE, Chrome, and Firefox browsers on a Windows laptop; using the device emulators in Chrome; and on my iPhone 6s.
  
+My reasons for taking this course:
+
+- Get a good, coherent view of modern web development.
+- Understand the developer tools now in common use.
+- Upgrade my personal web site, which dates to 1995, to modern standards.
